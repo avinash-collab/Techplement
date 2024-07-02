@@ -122,8 +122,19 @@ npm install
 cd ../client
 npm install
 
+
+
 # Navigate to the server directory
 cd server
 # Start the server
 npm start
 http://localhost:3000 to view the Quote of the Day App.
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository
+Create a new branch (git checkout -b feature)
+Make your changes
+Commit your changes (git commit -am 'Add new feature')
+Push to the branch (git push origin feature)
+Create a new Pull Request
